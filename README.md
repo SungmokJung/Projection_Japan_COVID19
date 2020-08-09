@@ -16,4 +16,4 @@ projection.ipynb/[html](https://github.com/SungmokJung/Projection_Japan_COVID19/
 * Jupyter Notebook ver. 4.5.0
 
 ## Authors
-Sung-mok Jung, Akira Endo, Ryo Kinoshita, Hiroshi Nishiura
+Sung-mok Jung, Akira Endo, Ryo Kinoshita, and Hiroshi Nishiura
