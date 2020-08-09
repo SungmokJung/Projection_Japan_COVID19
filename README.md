@@ -5,7 +5,7 @@ Source code accompanying Jung and Endo et al. "Projecting second wave of COVID-1
 projection.ipynb/[html](https://github.com/SungmokJung/Projection_Japan_COVID19/blob/master/projection.ipynb): Jupyter Notebook to reproduce the analysis in the paper
 
 ## Licence
-MIT
+[MIT](https://github.com/SungmokJung/Projection_Japan_COVID19/blob/master/LICENSE)
 
 ## Dependencies
 * R ver. 3.6.0
