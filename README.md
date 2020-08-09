@@ -2,7 +2,7 @@
 Source code accompanying Jung and Endo et al. "Projecting second wave of COVID-19 in Japan with variable interventions in high-risk settings". 
 
 ## Main files
-projection.ipynb /href{https://github.com/SungmokJung/Projection_Japan_COVID19/blob/master/projection.ipynb}{html} : Jupyter Notebook to reproduce the analysis in the paper
+projection.ipynb/[html](https://github.com/SungmokJung/Projection_Japan_COVID19/blob/master/projection.ipynb): Jupyter Notebook to reproduce the analysis in the paper
 
 ## Licence
 MIT
